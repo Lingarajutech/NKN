@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NKNCore", "NKNCore\NKNCore.csproj", "{BBF0B8FA-A1E1-47E8-909E-08C6425F0DCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBF0B8FA-A1E1-47E8-909E-08C6425F0DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBF0B8FA-A1E1-47E8-909E-08C6425F0DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBF0B8FA-A1E1-47E8-909E-08C6425F0DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBF0B8FA-A1E1-47E8-909E-08C6425F0DCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3B14485-A4C2-4A11-B988-E3981C51DD67}
+	EndGlobalSection
+EndGlobal
