@@ -1,4 +1,4 @@
-﻿namespace NKNCore.Modals
+﻿namespace SLACore.Modals
 {
     public class User
     {
@@ -13,7 +13,7 @@
     public enum AuthProvider
     {
         Unknown = 0,
-        Google = 10,
-        Microsoft = 20
+        Google = 1,
+        Microsoft = 2
     }
 }

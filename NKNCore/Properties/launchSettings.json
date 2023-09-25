@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "NKNCore": {
+    "SLACore": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,

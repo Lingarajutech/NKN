@@ -1,6 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using NKNCore.DataAccess;
-using NKNCore.Repository;
+using SLACore.Repository;
 
 var myAllowSpecificOrigins = "_myAllowSpecificOrigins";
 
@@ -27,10 +26,10 @@ builder.Services.AddCors(options =>
         );
 });
 
-builder.Services.AddDbContext<DataContext>(options =>
-{
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnectionString"));
-});
+//builder.Services.AddDbContext<DataContext>(options =>
+//{
+//    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnectionString"));
+//});
 
 var app = builder.Build();
 

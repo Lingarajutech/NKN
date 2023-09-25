@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace NKNCore.Modals
+namespace SLACore.Modals
 {
     public class Member
     {

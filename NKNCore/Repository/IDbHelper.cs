@@ -1,6 +1,6 @@
 ﻿using System.Data;
 
-namespace NKNCore.Repository
+namespace SLACore.Repository
 {
     public interface IDbHelper <T> where T : new()
     {

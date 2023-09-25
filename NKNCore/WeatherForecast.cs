@@ -1,4 +1,4 @@
-namespace NKNCore
+namespace SLACore
 {
     public class WeatherForecast
     {

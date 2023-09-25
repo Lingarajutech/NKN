@@ -2,7 +2,7 @@
 using System.Data;
 using System.Reflection;
 
-namespace NKNCore.Repository
+namespace SLACore.Repository
 {
     public class SqlDbHelper <T> : IDbHelper<T> where T : new()
     {

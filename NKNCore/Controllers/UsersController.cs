@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using NKNCore.DataAccess;
-using NKNCore.Modals;
-using NKNCore.Repository;
+using SLACore.Modals;
+using SLACore.Repository;
 
-namespace NKNCore.Controllers
+namespace SLACore.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

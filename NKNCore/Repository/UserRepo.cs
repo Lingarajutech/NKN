@@ -1,6 +1,6 @@
-﻿using NKNCore.Modals;
+﻿using SLACore.Modals;
 
-namespace NKNCore.Repository
+namespace SLACore.Repository
 {
     public class UserRepo : IUserRepo
     {
